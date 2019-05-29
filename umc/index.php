@@ -160,7 +160,7 @@
         <fieldset>
             <h2>Resultaat</h2>
 
-            <input type="button" name="password" class="next btn btn-info" value="Done" />
+            <input type="submit" name="submit" class="submit btn btn-success" value="done" />
         </fieldset>
   </form>
 </div>
